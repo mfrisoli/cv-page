@@ -40,7 +40,7 @@ subtitle = ""
 
   [[feature]]
   icon = "file-excel"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Excel"
   description = "100%"
 
@@ -49,6 +49,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "database"
   description = "100%"
+
+  [[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HMTL5"
+  description = "70%"
+
+  [[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "HMTL5"
+  description = "70%"
+
+  [[feature]]
+  icon = "flask"
+  icon_pack = "custom"
+  name = "Flask"
+  description = "70%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
