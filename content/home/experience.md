@@ -18,15 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Technical Services Systems Engineer"
+  company = "Ryanair DAC"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Dublin, Ireland"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
   Responsibilities include:
   
+  Review of Continuing Airworthiness Requirement work orders. Resolution of Aircraft System issues and deliver technical support as per EASA Part-M requirements. Maintain Boeing 737NG and Airbus A320 Tool Calibration Specifications Database. Review Boeing Tool Change Bulletins and advise the company on changes to current requirements
+
+  * Carry out the daily aircraft’s laboratory review, reducing downtime of the system
+  * Reduced ground support equipment maintenance costs by accurately reviewing and amending service/calibration requirements in accordance with international Standards and equipment manufactures.
+  * Migrated and reviewed +150 Airbus calibrated ground support equipment to Ryanair Database
+
   * Analysing
   * Modelling
   * Deploying
