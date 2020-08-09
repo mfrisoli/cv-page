@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "Python"
   description = "90%"
   
 [[feature]]
@@ -27,10 +27,28 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "50%"
+
+  [[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  description = "80%"
+
+  [[feature]]
+  icon = "file-excel"
+  icon_pack = "fab"
+  name = "Excel"
+  description = "100%"
+
+  [[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "database"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
