@@ -18,55 +18,67 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "50%"
+  description = ""
 
   [[feature]]
   icon = "git-alt"
   icon_pack = "fab"
   name = "Git"
-  description = "80%"
+  description = ""
 
   [[feature]]
   icon = "file-excel"
   icon_pack = "fas"
   name = "Excel"
-  description = "100%"
+  description = ""
 
   [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "database"
-  description = "100%"
+  description = ""
 
   [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HMTL5"
-  description = "70%"
+  description = ""
+
+  [[feature]]
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS3"
+  description = ""
 
   [[feature]]
   icon = "terminal"
   icon_pack = "fas"
-  name = "HMTL5"
-  description = "70%"
+  name = "CLI Terminal"
+  description = ""
 
   [[feature]]
   icon = "flask"
   icon_pack = "custom"
   name = "Flask"
-  description = "70%"
+  description = ""
+
+  [[feature]]
+  icon = "django"
+  icon_pack = "custom"
+  name = "Django"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
