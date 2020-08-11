@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mechanical engineering, computer and data science.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Data Engineering
 - Information Retrieval
 
 education:
@@ -67,5 +67,4 @@ user_groups:
 
 Hello World!
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Mechanical Engineer that enjoys finding practical solutions to everyday problems. Highly motivated in learning new skills, pursuing a path into technologies of tomorrow, one line of code at a time.
