@@ -3,7 +3,7 @@ title: "Decision Maker"
 date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
-[![Screenshot](static/media/DM.JPG)](http://decision-maker-2020.herokuapp.com/)
+[![Screenshot](DM.JPG)](http://decision-maker-2020.herokuapp.com/)
 
 Decision Maker is a dynamic web application made to help groups decide in what to do. 
 
