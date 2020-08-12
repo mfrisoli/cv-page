@@ -21,3 +21,4 @@ For more details on the specifications of the app, please view README.md found a
 * **Repository:** https://github.com/raptor787/decision-maker
 * **App site:** http://decision-maker-2020.herokuapp.com/  
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=marcofrisoli&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #marcofrisoli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
