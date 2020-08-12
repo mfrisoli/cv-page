@@ -4,9 +4,10 @@ date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
 
-# Decision Maker.
 
-Decision Maker is a dynamic web application made to help groups decide in what to do. This is done by creating a topic (a room) and putting together a couple of choices (options), sharing it with your group so they can vote on what they like best; after the voting is finish and the poll closes you can see the results.
+Decision Maker is a dynamic web application made to help groups decide in what to do. 
+
+This is done by creating a topic (a room) and putting together a couple of choices (options), sharing it with your group so they can vote on what they like best; after the voting is finish and the poll closes you can see the results.
 
 The app is built in Flask microframework written in python. The application uses the advantages of Object Relation mapping (ORM) to handle the database using SQL Alchemy library.
 

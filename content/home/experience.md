@@ -33,10 +33,6 @@ date_format = "Jan 2006"
   * Carry out the daily aircraft’s laboratory review, reducing downtime of the system.
   * Reduced ground support equipment maintenance costs by accurately reviewing and amending service/calibration requirements in accordance with international Standards and equipment manufactures.
   * Migrated and reviewed +150 Airbus calibrated ground support equipment to Ryanair Database.
-
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
