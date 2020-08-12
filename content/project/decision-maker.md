@@ -3,7 +3,7 @@ title: "Decision Maker"
 date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
-
+[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
 Decision Maker is a dynamic web application made to help groups decide in what to do. 
 
