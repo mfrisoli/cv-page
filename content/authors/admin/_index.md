@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanical engineering, computer and data science.
+bio: My research interests include computer & data science, mechanical engineering, and aviation.
 
 interests:
 - Artificial Intelligence
