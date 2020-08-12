@@ -7,6 +7,7 @@
   icon = "python"
   icon_pack = "fab"
   name = ""
+  weight = 5
 
 [[main]]
   name = "Home"
