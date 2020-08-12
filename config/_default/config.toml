@@ -12,9 +12,11 @@ title = "Marco Frisoli"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://marcofrisoli.com/"
 
+
+
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Copyright Marco Frisoli {year}"
 
 ############################
 ## Advanced options below ##
