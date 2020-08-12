@@ -17,5 +17,7 @@ HTML templates were written using Jinja, this enable the use of python logic all
 
 JavaScript was used as part to validate input on the client side before submitting data via “Post” request.
 
-App site: http://decision-maker-2020.herokuapp.com/
-Repository: https://github.com/raptor787/decision-maker
+For more details on the specifications of the app, please view README.md found at the repository.
+* **Repository:** https://github.com/raptor787/decision-maker
+* **App site:** http://decision-maker-2020.herokuapp.com/  
+
