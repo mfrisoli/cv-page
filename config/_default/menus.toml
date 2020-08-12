@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  icon = "python"
+  icon_pack = "fab"
+  name = ""
+
+[[main]]
   name = "Home"
   url = "#about"
   weight = 10
