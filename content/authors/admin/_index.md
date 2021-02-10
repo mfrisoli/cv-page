@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mechanical Engineer / Data Analyst / Programmer
+role: Mechanical Engineer / Technical Services Engineer / Data Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,12 +24,18 @@ interests:
 - Artificial Intelligence
 - Data Engineering
 - Information Retrieval
+- Machine Learning
+- Programming
 
 education:
   courses:
+  - course: Data Engineer Nanodegree
+    institution: UDACITY
+    year: 2021
   - course: BEng Mechanical Engineer
     institution: Universidad de Oriente
     year: 2018
+
 
 
 # Social/Academic Networking
@@ -70,4 +76,4 @@ email: "marcofrisoli@outlook.com"
 
 Hello World!
 
-I am a Mechanical Engineer that enjoys finding practical solutions to everyday problems. Highly motivated in learning new skills, pursuing a path into technologies of tomorrow, one line of code at a time.
+I am an enthusiastic professional that enjoys finding practical solutions to everyday problems. Highly motivated in learning new skills, pursuing a path into technologies of tomorrow, one line of code at a time.
