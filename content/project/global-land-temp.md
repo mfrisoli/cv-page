@@ -1,11 +1,8 @@
 ---
-title: "Decision Maker"
+title: "World Land Temperature ETL Pipeline – Cloud Data Waterhouse"
 date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
-header:
-  image: "static/img/DM.JPG"
-  caption: "Image credit: [**Decision Maker**](http://decision-maker-2020.herokuapp.com/)"
 
 # LAND TEMPERATURE ETL PIPELINE - DATAWAREHOUSE PROJECT
 
