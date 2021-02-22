@@ -4,9 +4,7 @@ date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
 
-[**Decision Maker**](http://decision-maker-2020.herokuapp.com/)"
-
-![Decision Maker](static/media/DM.JPG 'Decision Maker')
+[**Decision Maker**](http://decision-maker-2020.herokuapp.com/)
 
 Decision Maker is a dynamic web application made to help groups decide in what to do. 
 

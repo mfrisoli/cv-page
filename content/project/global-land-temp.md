@@ -1,6 +1,6 @@
 ---
 title: "World Land Temperature ETL Pipeline – Cloud Data Waterhouse"
-date: 2020-08-10T22:41:15+01:00
+date: 2021-02-10T22:41:15+01:00
 draft: false
 ---
 
@@ -47,7 +47,6 @@ The raw data comes from the [Berkeley Earth data page](http://berkeleyearth.org/
 
 Please refer to `requirements.txt`
 
-
 ## Technologies
 
 - AWS Redshift
@@ -61,9 +60,6 @@ Please refer to `requirements.txt`
 ### Star Schema:
 
 For this project, a Star Schema was selected because of it simple style and its effectiveness to handle simple queries.
-
-![Data Model](https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/data_model.png 'Data Model')
-<img src="https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/data_model.png" alt="Data Model">
 
 #### **Fact Table**
 - readings_by_city
@@ -91,12 +87,6 @@ For this project, a Star Schema was selected because of it simple style and its 
     - longitude
     - major_city
 
-
-### Data Dictionary
-
-Below you will find a summary and example of the schema and data type constraints used
-
-![Data Dictionary](https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/data_dict.JPG 'Data Dictionary')
 
 ## How to Run:
 
@@ -252,10 +242,6 @@ The data is checked using `data_quality_check()` function from `helpers/data_qua
 This will check that data exists and is available.
 
 if you get a success message you have succesfully implemented the ETL pipeline and now the Data Warehouse can be used.
-
-
-Here is an example of AWS Redshift DW once the pipeline has been implemented
-![Example of AWS Redshift DW](https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/example_1.JPG 'Example of AWS Redshift DW')
 
 
 Project Github Repository:

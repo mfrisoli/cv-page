@@ -80,6 +80,18 @@ subtitle = ""
   name = "Django"
   description = ""
 
+  [[feature]]
+  icon = "django"
+  icon_pack = "custom"
+  name = "Django"
+  description = "testing a comment"
+
+  [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Apache Spark"
+  description = "testing a comment"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
