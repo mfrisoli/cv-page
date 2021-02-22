@@ -3,9 +3,10 @@ title: "Decision Maker"
 date: 2020-08-10T22:41:15+01:00
 draft: false
 ---
-header:
-  image: "static/media/DM.JPG"
-  caption: "Image credit: [**Decision Maker**](http://decision-maker-2020.herokuapp.com/)"
+
+[**Decision Maker**](http://decision-maker-2020.herokuapp.com/)"
+
+![Decision Maker](static/media/DM.JPG 'Decision Maker')
 
 Decision Maker is a dynamic web application made to help groups decide in what to do. 
 
