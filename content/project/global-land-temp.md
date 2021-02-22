@@ -1,5 +1,5 @@
 ---
-title: "World Land Temperature ETL Pipeline – Cloud Data Waterhouse"
+title: "World Land Temperature ETL Pipeline – Cloud Data Warehouse"
 date: 2021-02-10T22:41:15+01:00
 draft: false
 ---

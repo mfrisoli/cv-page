@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Feel free to visit my Github page for additional projects"
 
 [content]
   # Page type to display. E.g. project.

@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: Data Engineer Nanodegree
+  - course: Data Engineering Nanodegree
     institution: UDACITY
     year: 2021
   - course: BEng Mechanical Engineer
@@ -75,6 +75,6 @@ email: "marcofrisoli@outlook.com"
 # - Visitors
 ---
 
-Hello World!
+Hello, World!
 
 I am an enthusiastic professional that enjoys finding practical solutions to everyday problems. Highly motivated in learning new skills, pursuing a path into technologies of tomorrow, one line of code at a time.

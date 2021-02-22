@@ -9,7 +9,7 @@ draft: false
 
 Apache Airflow pipeline design in accordance of Sparkify Dataset requirements.
 
-This high grade data pipeline is built using are with reusable tasks and operators, using Apache Airflow, this pipeline can be monitored, and allows easy backfills and scheduling. data quality plays a big part when analyses are executed on top the data warehouse therefore tests are run against their datasets after the ETL steps have been executed to catch any discrepancies in the datasets.
+This high grade data pipeline is built using reusable tasks and operators in Apache Airflow, this pipeline can be monitored; allows easy backfills and scheduling. data quality plays a big part when analyses are executed on top of the data warehouse,therefore tests are run against their datasets after the ETL steps have been executed to catch any discrepancies.
 
 The source data resides in S3 and this pipeline allows transfer to Sparkify's data warehouse in Amazon Redshift. The source datasets consist of JSON logs that tell about user activity in the application and JSON metadata about the songs the users listen to.
 
@@ -29,7 +29,7 @@ Index:
 
 ### 1.2 Redshift Cluster:
 
-For instructions on how to create and start an AWS Redshift cluster, please follow this github repository: [Datawharehouse with Redshift](https://github.com/mfrisoli/data-wharehouse-redshift/blob/main/README.md)
+For instructions on how to create and start an AWS Redshift cluster, please follow this github repository: [Data warehouse with Redshift](https://github.com/mfrisoli/data-warehouse-redshift/blob/main/README.md)
 
 ### 1.3 Technologies
 - python3
