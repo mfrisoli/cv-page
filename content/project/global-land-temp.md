@@ -63,6 +63,7 @@ Please refer to `requirements.txt`
 For this project, a Star Schema was selected because of it simple style and its effectiveness to handle simple queries.
 
 ![Data Model](https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/data_model.png 'Data Model')
+<img src="https://github.com/mfrisoli/global-land-temp-dw/blob/master/media/data_model.png" alt="Data Model">
 
 #### **Fact Table**
 - readings_by_city
