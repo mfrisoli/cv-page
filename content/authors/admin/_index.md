@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mechanical Engineer / Technical Services Engineer / Data Engineer
+role: Mechanical Engineer / Data Engineer / Technical Services Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,11 +21,12 @@ organizations:
 bio: My research interests include computer & data science, mechanical engineering, and aviation.
 
 interests:
-- Artificial Intelligence
 - Data Engineering
 - Information Retrieval
 - Machine Learning
+- Artificial Intelligence
 - Programming
+- Entrepreneurship
 
 education:
   courses:

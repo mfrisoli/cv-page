@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   Review of Continuing Airworthiness Requirement work orders. Resolution of Aircraft System issues and deliver technical support as per EASA Part-M requirements. Maintain Boeing 737NG and Airbus A320 Tool Calibration Specifications Database. Review Boeing Tool Change Bulletins and advise the company on changes to current requirements.
 
   KEY ACHIEVEMENTS
+
   * Carry out the daily aircraft’s laboratory review, reducing downtime of the system.
   * Reduced ground support equipment maintenance costs by accurately reviewing and amending service/calibration requirements in accordance with international Standards and equipment manufactures.
   * Migrated and reviewed +150 Airbus calibrated ground support equipment to Ryanair Database.
@@ -46,6 +47,7 @@ date_format = "Jan 2006"
   Ensured that all Ryanair bases had serviceable ground support equipment available for their daily operations. Issued Calibration/Repair Orders that complied to the latest standards & manufacturer instructions for preventative/proactive maintenance. Arranged on-site inspections of tools and ground support equipment around European bases.
 
   KEY ACHIEVEMENTS
+
   * Developed a procedure to extract, and process data that generated all KPIs for weekly reports, reducing the time taken from 8 man-hours every week to less than 20 minutes.
   * Maintained all Ryanair’s +8000 calibrated tools in over +80 European bases to EASA Part 145 requirements with AMOS database management software.
   * Resolved tool issues using OEM/Airbus/Boeing Technical Manuals.
@@ -75,7 +77,9 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2018-01-31"
   description = """Completed thesis for the BEng degree while gaining practical experience as an engineering intern.
+
   KEY ACHIEVEMENTS
+  
   * Created an Excel database to optimise and simplify deferred maintenance activities.
   * Improved the reliability of line maintenance by mentoring technicians on safety hazards and risk mitigation.
   * Gained troubleshooting experience by continual use of the maintenance manuals for Boeing 737 aircraft systems.
