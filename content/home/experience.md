@@ -17,23 +17,52 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Customer Success Engineer"
+  company = "Layer"
+  company_url = "https://www.wearelayer.com/"
+  location = "Dublin, Ireland"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  Python developer building integration protocols and procedures that incorporate with the  customers systems. Delivering technical support to the integration layer between banking application and bank services. Developing RESTfull API using Flask in an Agile environment.
+
+  KEY ACHIEVEMENTS
+
+  * Deployment and management of Docker Services.
+  * Troubleshooting complex software issues.
+  * Successfully handle technical queries on the company’s Helpdesk.
+  * Troubleshoot implementation issues.
+  * Writing API technical documentation
+  * SOAP API integrations
+  """
+
+
 [[experience]]
   title = "Technical Services Systems Engineer"
   company = "Ryanair DAC"
   company_url = "https://www.ryanair.com/"
   location = "Dublin, Ireland"
   date_start = "2020-03-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
   Responsibilities include:
 
-  Review of Continuing Airworthiness Requirement work orders. Resolution of Aircraft System issues and deliver technical support as per EASA Part-M requirements. Maintain Boeing 737NG and Airbus A320 Tool Calibration Specifications Database. Review Boeing Tool Change Bulletins and advise the company on changes to current requirements.
+  Delivered technical support as per EASA Part-M regulations, resolved aircraft system issues. maintained Boeing 737NG and Airbus A320 tool calibration specifications database. Assessed Boeing Tool Change Bulletins and advise the company.
 
   KEY ACHIEVEMENTS
 
   * Carry out the daily aircraft’s laboratory review, reducing downtime of the system.
   * Reduced ground support equipment maintenance costs by accurately reviewing and amending service/calibration requirements in accordance with international Standards and equipment manufactures.
   * Migrated and reviewed +150 Airbus calibrated ground support equipment to Ryanair Database.
+  * Reduced ground support equipment maintenance costs by accurately reviewing and amending service/calibration requirements per international Standards.
+  * Handled technical queries on the company’s Technical Services Helpdesk.
+  * Wrote SQL queries to generate efficient custom reports.
+  * Key contact with international calibration laboratories assessing their capability.
+
   """
 
 [[experience]]
